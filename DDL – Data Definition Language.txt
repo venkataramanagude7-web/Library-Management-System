@@ -1,0 +1,40 @@
+DDL – Data Definition Language
+CREATE 
+ALTER 
+DROP 
+
+DML – Data Manipulation Language
+INSERT 
+UPDATE 
+DELETE 
+
+DQL – Data Query Language
+SELECT 
+
+These operations can be performed on the Library Management System database.
+CRUD Operations
+CREATE
+Add new books 
+Add new members 
+Add loan records
+ 
+READ
+View books 
+View members 
+Check book availability 
+View loan records
+
+UPDATE
+Update book information 
+Update member information 
+Update loan details 
+
+DELETE
+Delete records when required 
+
+SQL Queries
+SELECT queries 
+JOIN queries 
+Aggregate functions 
+Views 
+Search queries
